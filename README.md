@@ -53,13 +53,13 @@ Kaggle Link: https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset/
 
 ### Line Graph
 
-![alt text](https://github.com/Anitt/MachineLearning_IPL_DataSet/blob/master/images/LineGraph.jpg"Line Graph")
+![alt text](https://github.com/Anitt/MachineLearning_IPL_DataSet/blob/master/images/LineGraph.jpg)
 
 ### Stacked Bar Graph
 
-![alt text](https://github.com/Anitt/MachineLearning_IPL_DataSet/blob/master/images/StackedBarGraph2.png"Stacked Bar Graph")
+![alt text](https://github.com/Anitt/MachineLearning_IPL_DataSet/blob/master/images/StackedBarGraph.png)
 
-![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/StackedBarGraph.png "Stacked Bar Graph")
+![alt text](https://github.com/Anitt/MachineLearning_IPL_DataSet/blob/master/images/StackedBarGraph2.png)
 
 ### Clustering
 
