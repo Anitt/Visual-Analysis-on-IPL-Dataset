@@ -1,0 +1,50 @@
+.bg-inverse {
+  background: #00d2ff;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3a7bd5, #00d2ff);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3a7bd5, #00d2ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+body {
+  background: #f9f9f9;
+  padding-top: 80px;
+  .page-wrapper {
+    padding-top: 20px;
+  }
+  .empty-text {
+    padding-top: 160px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 300;
+    color: #a9a9a9;
+  }
+  .graph-container {
+    background: white;
+    padding: 20px;
+    text-align: center;
+  }
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
+.axis line,
+.axis path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.axis--x path {
+  display: none;
+}
+.path-line {
+  fill: none;
+  stroke: yellow;
+  stroke-width: 1.5px;
+}
+svg {
+  width: 100%;
+}
+
+.right-5 { margin-right: 5px; }
+.right-10 { margin-right: 10px; }
+.left-5 { margin-left: 5px; }
+.left-10 { margin-left: 10px; }
